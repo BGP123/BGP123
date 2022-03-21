@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BGP123
+- 👀 I’m interested in web development, front and back end, automation, application creation, data science. 
+- 🌱 I’m currently learning python.
